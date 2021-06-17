@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tegarabedian or Thomas
+- 👀 I’m interested in Python, Data Science, Cloud Engineering
+- 🌱 I’m currently learning AWS and migration
+- 💞️ I’m looking to collaborate on AWS migration projects
